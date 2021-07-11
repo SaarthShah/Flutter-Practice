@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+saarthshah/cf/iamrich/BuildConfig.java
+ saarthshah.cf.iamrich.BuildConfig
